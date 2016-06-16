@@ -8,7 +8,7 @@
 
 {phang}
 {bf:dsl} {hline 2} Displays the 
-full variable names of the variables specify in [{it:varlist}]
+full variable names of the variables specified in [{it:varlist}]
 
 
 
